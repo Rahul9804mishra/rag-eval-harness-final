@@ -1,0 +1,51 @@
+question,expected_answer,source_document,source_page
+"What is the minimum attendance percentage required for students?","75%","handbook.txt",1
+"Who must approve a late fee waiver request?","the Head of Department","handbook.txt",1
+"In what year was NovaCorp Technologies founded?","2008","novacorp_employee_handbook.txt",1
+"Where is NovaCorp Technologies headquartered?","Austin, Texas","novacorp_employee_handbook.txt",1
+"Who is the Chief Executive Officer of NovaCorp?","Alexandra Reyes","novacorp_employee_handbook.txt",1
+"Who is the Chief Technology Officer of NovaCorp?","Marcus Lin","novacorp_employee_handbook.txt",1
+"Who is the Chief People Officer of NovaCorp?","Sandra Okafor","novacorp_employee_handbook.txt",1
+"How many days does the NovaCorp probationary period last?","90 days","novacorp_employee_handbook.txt",1
+"What are the standard working hours at NovaCorp?","9:00 AM to 6:00 PM","novacorp_employee_handbook.txt",1
+"How many days per week may NovaCorp employees work remotely?","3 days per week","novacorp_employee_handbook.txt",1
+"What minimum internet speed is required for remote work at NovaCorp?","25 Mbps","novacorp_employee_handbook.txt",1
+"What is the maximum merit increase percentage for an employee rated Exceeds Expectations?","12%","novacorp_employee_handbook.txt",1
+"What is the duration of a Performance Improvement Plan at NovaCorp?","60 days","novacorp_employee_handbook.txt",1
+"What percentage of the health insurance premium does NovaCorp cover for individual coverage?","100%","novacorp_employee_handbook.txt",1
+"What percentage of the health insurance premium does NovaCorp cover for family coverage?","70%","novacorp_employee_handbook.txt",1
+"What is the company 401(k) employer match rate at NovaCorp?","4%","novacorp_employee_handbook.txt",1
+"How many PTO days per year do employees in years 0 to 2 of service receive?","15 days","novacorp_employee_handbook.txt",1
+"How many PTO days per year do employees with 6 or more years of service receive?","25 days","novacorp_employee_handbook.txt",1
+"How many unused PTO days may be carried over to the following year at NovaCorp?","10 unused PTO days","novacorp_employee_handbook.txt",1
+"How many weeks of paid parental leave are primary caregivers entitled to at NovaCorp?","16 weeks","novacorp_employee_handbook.txt",1
+"How many weeks of paid parental leave are secondary caregivers entitled to?","4 weeks","novacorp_employee_handbook.txt",1
+"How many sick days per year do NovaCorp employees receive?","10 sick days","novacorp_employee_handbook.txt",1
+"How many consecutive sick days require a medical certificate at NovaCorp?","3 consecutive days","novacorp_employee_handbook.txt",1
+"How many days of bereavement leave are employees entitled to for the death of a spouse?","5 days","novacorp_employee_handbook.txt",1
+"What is the annual learning and development budget per employee at NovaCorp?","$2,000","novacorp_employee_handbook.txt",1
+"How much tuition reimbursement per academic year is available at NovaCorp?","$5,000","novacorp_employee_handbook.txt",1
+"How long must employees stay at NovaCorp after receiving tuition reimbursement to avoid repayment?","2 years","novacorp_employee_handbook.txt",1
+"Within how many days must a conflict of interest be disclosed at NovaCorp?","5 business days","novacorp_employee_handbook.txt",1
+"How long do NovaCorp NDA confidentiality obligations survive after termination?","3 years","novacorp_employee_handbook.txt",1
+"How frequently must NovaCorp employees change their passwords?","every 90 days","novacorp_employee_handbook.txt",1
+"What is the minimum password length required at NovaCorp?","12 characters","novacorp_employee_handbook.txt",1
+"How many counselling sessions per year does the NovaCorp EAP provide?","8 free counselling sessions","novacorp_employee_handbook.txt",1
+"What is the notice period required for employees with 6 or more years of service who resign?","8 weeks","novacorp_employee_handbook.txt",1
+"What is the severance pay rate at NovaCorp for redundancy?","2 weeks salary per year of service","novacorp_employee_handbook.txt",1
+"What is the maximum severance payment in weeks at NovaCorp?","26 weeks","novacorp_employee_handbook.txt",1
+"Within how many hours must a lost or stolen company device be reported to IT at NovaCorp?","1 hour","novacorp_it_policy.txt",1
+"How long after a lost device report does IT initiate a remote wipe at NovaCorp?","2 hours","novacorp_it_policy.txt",1
+"How frequently are role-based access assignments reviewed at NovaCorp?","quarterly","novacorp_it_policy.txt",1
+"After how many days of inactivity is NovaCorp system access automatically revoked?","90 consecutive days","novacorp_it_policy.txt",1
+"What is the response time for a Critical security incident at NovaCorp?","within 15 minutes","novacorp_it_policy.txt",1
+"How long must financial records be retained at NovaCorp?","7 years","novacorp_it_policy.txt",1
+"How long must employee records be retained after termination at NovaCorp?","5 years","novacorp_it_policy.txt",1
+"Within how many days must new employees complete security awareness training at NovaCorp?","30 days","novacorp_it_policy.txt",1
+"What is the maximum annual dental benefit per person at NovaCorp?","$1,500","novacorp_benefits_guide.txt",1
+"What is the annual vision allowance for frames or contact lenses at NovaCorp?","$150 per year","novacorp_benefits_guide.txt",1
+"What is the maximum annual Healthcare FSA contribution at NovaCorp?","$2,850 per year","novacorp_benefits_guide.txt",1
+"How much does NovaCorp reimburse per year for wellness expenses?","$500 per year","novacorp_benefits_guide.txt",1
+"What discount do employees receive when purchasing NovaCorp stock through the ESPP?","15% discount","novacorp_benefits_guide.txt",1
+"How many years of service are required to be eligible for a sabbatical at NovaCorp?","7 continuous years","novacorp_benefits_guide.txt",1
+"What is the maximum one-time adoption assistance reimbursement at NovaCorp?","$10,000","novacorp_benefits_guide.txt",1

@@ -1,0 +1,25 @@
+venv/
+__pycache__/
+*.pyc
+chroma_simple/
+chroma_semantic/
+results.json
+results_chart.png
+.env
+
+# Virtual environments
+venv312/
+.venv/
+env/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Project data and generated files
+data/
+results/
+rag_eval_source_documents/
+rag_eval_source_documents.zip
+

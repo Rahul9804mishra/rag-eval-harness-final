@@ -1,0 +1,6 @@
+streamlit
+Pillow
+requests
+pandas
+matplotlib
+chromadb
